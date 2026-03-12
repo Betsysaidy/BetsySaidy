@@ -1,6 +1,10 @@
 ## Hi I'm Betsy 👋
 
 I am a healthcare Data Analyst with a background in Health Informatics and Public Health with over 5 years experience in the healthcare setting.
+
+Cloud ☁️ : Google Cloud, Microsoft Fabric Data Analysis Tools💻: Tableau, PowerBI, SQL, MS Excel
+
+Certifications & Degrees 🎓 : Google Advanced Data Analytics, Generative AI for Data Analysts, Epic Cogito, MS in Health Informatics, Bsc in Public Health
 <!--
 **Betsysaidy/BetsySaidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
