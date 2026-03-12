@@ -4,7 +4,7 @@ I am a healthcare Data Analyst with a background in Health Informatics and Publi
 
 Cloud ☁️ : Google Cloud, Microsoft Fabric 
 
-Data Analysis Tools💻: Tableau, PowerBI, SQL, MS Excel, SAS SPSS
+Data Analysis Tools💻: Tableau, PowerBI, SQL, MS Excel, SAS, SPSS
 
 Certifications & Degrees 🎓 : Google Data Analytics, MS in Health Informatics, Bsc in Public Health
 <!--
